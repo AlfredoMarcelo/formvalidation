@@ -1,1 +1,23 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(255, 255, 255);
+}
+#fondo {
+  background-color: white;
+}
+input {
+  width: 100%;
+}
+.col {
+  margin: 10px 0px;
+}
+
+ul.navega li {
+  display: inline;
+  padding-right: 0.5em;
+}
+i {
+  color: white;
+}
+#floatingTextarea2 {
+  resize: none;
+}
